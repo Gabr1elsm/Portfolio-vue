@@ -1,1 +1,1 @@
-Este é um projeto com HTML, javaScrpit e VueJS para criar um portofolio simples com minhas informações.
+Este é um projeto com HTML, javaScripit e VueJS para criar um portfolio simples com minhas informações.
